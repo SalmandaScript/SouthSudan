@@ -48,6 +48,16 @@ color: "teal"
 });
 });
 
+//previous page 
+function southAfrica(){
+open("https://salmandascript.github.io/SouthAfrica/SouthAfrica.html");
+}
+
+//previous page 
+function sudan(){
+open("https://salmandascript.github.io/Sudan/Sudan.html");
+}
+
 //quizz questions code 
 function checkAnswer()
   {
